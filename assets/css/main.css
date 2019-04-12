@@ -3369,7 +3369,16 @@ input, select, textarea {
 				padding: 0.5em 0 0 0;
 			}
 			#menu ul > li .indent-link{
-				padding-left: 1em;
+				animation: indent 1s infinite alternate;
+			}
+
+			@keyframes indent{
+				0%{
+					padding-left: 0em;
+				}
+				100%{
+					padding-left: 1em;
+				}
 			}
 
 				#menu ul > li:first-child {
