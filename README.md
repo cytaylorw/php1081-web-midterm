@@ -21,3 +21,4 @@
 - 繁體中文字型採用Google font：Noto Serif TC
 - 連結facebook
 - 連結Google Map
+- CSS動態效果
