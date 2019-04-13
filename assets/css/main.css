@@ -3332,7 +3332,7 @@ input, select, textarea {
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: linear-gradient(-45deg, #E95513, #0B308E);
+		background: linear-gradient(-90deg, #E95513, #0B308E);
 		background-size: 400% 400%;
         animation: guardient 3s linear infinite;
 		color: #ffffff;
@@ -3369,12 +3369,12 @@ input, select, textarea {
 				padding: 0.5em 0 0 0;
 			}
 			#menu ul > li .indent-link{
-				animation: indent 1s infinite alternate;
+				animation: indent 1.5s infinite alternate;
 			}
 
 			@keyframes indent{
 				0%{
-					padding-left: 0em;
+					padding-left: 0.5em;
 				}
 				100%{
 					padding-left: 1em;
