@@ -3577,12 +3577,7 @@ input, select, textarea {
 			background: transparent;
 		}
 
-			#header.alt h1{
-				pointer-events: none;
-				opacity: 0;
-			}
-
-			#header.alt img{
+			#header.alt h1, #header.alt img{
 				pointer-events: none;
 				opacity: 0;
 			}
