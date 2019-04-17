@@ -9,10 +9,10 @@
 107 年 4 月 30 日
 
 ## 原始版型
-<https://cytaylorw.github.io/php1801-web-midterm/template/index.html>
+<https://cytaylorw.github.io/php1081-web-midterm/template/index.html>
 
 # 成品
-<https://cytaylorw.github.io/php1801-web-midterm/index.html>
+<https://cytaylorw.github.io/php1081-web-midterm/index.html>
 
 ## 網站內容描述
 - 網站內容主要取材於[泰山職業訓練場 - 中文介紹影片](https://www.youtube.com/watch?v=Aai9IZHkRJY)
